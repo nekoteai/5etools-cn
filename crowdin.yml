@@ -1,0 +1,6 @@
+files:
+  - source: '/**/*.[jh]???'
+    ignore:
+      - /**/package*.json
+      - /**/index.json
+    translation: '%original_path%/%original_file_name%'
