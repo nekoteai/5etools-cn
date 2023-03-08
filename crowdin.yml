@@ -3,4 +3,5 @@ files:
     ignore:
       - /**/package*.json
       - /**/index.json
+      - .stylelintrc.json
     translation: '%original_path%/%original_file_name%'
